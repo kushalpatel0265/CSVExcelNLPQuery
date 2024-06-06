@@ -11,11 +11,11 @@ DataQueryAI is a powerful tool designed to facilitate seamless interaction with 
 ## Getting Started
 Follow these instructions to set up and run DataQueryAI on your local machine.
 
-### Prerequisites
+## Prerequisites
 - Python 3.8 or higher
 - PandasAI API key (obtain yours at [PandasAI API Keys](https://www.pandabi.ai/admin/api-keys))
 
-### Installation
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/kushalpatel0265/CSVExcelNLPQuery.git
@@ -23,17 +23,15 @@ Follow these instructions to set up and run DataQueryAI on your local machine.
    ```bash
    pip install -r requirements.txt
 
-### Usage
+## Usage
 1. Run the main script:
    ```bash
    python main.py
 2. Upload your Excel or CSV file.
 
-### Contributing
-Contributions to CSVExcelNLPQuery are welcome! Please feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+## License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kushalpatel0265/CSVExcelNLPQuery/blob/main/LICENSE) file for details.
-
-### Acknowledgements
-This README now includes a detailed installation section with explicit references to the `requirements.txt` file and its contents, ensuring users know exactly what libraries they need to run the project.
+## Contact
+- Gmail: kushalpatel0265@gmail.com
+- Project Link: https://github.com/kushalpatel0265/Database-Talk
