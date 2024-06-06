@@ -1,0 +1,1001 @@
+country,sales,year,product_category,continent
+United States,5000,2021,Electronics,North America
+United Kingdom,3200,2021,Clothing,Europe
+France,2900,2021,Electronics,Europe
+Germany,4100,2021,Automotive,Europe
+Italy,2300,2021,Food,Europe
+Spain,2100,2021,Clothing,Europe
+Canada,2500,2021,Food,North America
+Australia,2600,2021,Electronics,Oceania
+Japan,4500,2021,Automotive,Asia
+China,7000,2021,Electronics,Asia
+India,6500,2022,Food,Asia
+Brazil,3400,2022,Electronics,South America
+Russia,3200,2022,Clothing,Europe
+Mexico,3100,2022,Automotive,North America
+South Korea,4300,2022,Food,Asia
+South Africa,2200,2022,Clothing,Africa
+Nigeria,2100,2022,Electronics,Africa
+Egypt,2300,2022,Food,Africa
+Turkey,2400,2022,Automotive,Europe
+Sweden,3300,2022,Electronics,Europe
+Russia,3200,2020,Clothing,Europe
+South Africa,2200,2015,Clothing,Africa
+United States,5000,2018,Electronics,North America
+Germany,4100,2018,Automotive,Europe
+Germany,4100,2022,Automotive,Europe
+Australia,2600,2018,Electronics,Oceania
+China,7000,2020,Electronics,Asia
+Sweden,3300,2017,Electronics,Europe
+Turkey,2400,2019,Automotive,Europe
+Italy,2300,2022,Food,Europe
+Canada,2500,2021,Food,North America
+Russia,3200,2023,Clothing,Europe
+United Kingdom,3200,2023,Clothing,Europe
+Canada,2500,2016,Food,North America
+Australia,2600,2021,Electronics,Oceania
+South Korea,4300,2022,Food,Asia
+Egypt,2300,2022,Food,Africa
+Spain,2100,2023,Clothing,Europe
+Mexico,3100,2016,Automotive,North America
+Japan,4500,2020,Automotive,Asia
+China,7000,2023,Electronics,Asia
+Sweden,3300,2019,Electronics,Europe
+Nigeria,2100,2018,Electronics,Africa
+Sweden,3300,2015,Electronics,Europe
+Spain,2100,2018,Clothing,Europe
+South Africa,2200,2020,Clothing,Africa
+South Africa,2200,2015,Clothing,Africa
+United States,5000,2017,Electronics,North America
+Turkey,2400,2018,Automotive,Europe
+Germany,4100,2023,Automotive,Europe
+Egypt,2300,2016,Food,Africa
+Sweden,3300,2018,Electronics,Europe
+Sweden,3300,2018,Electronics,Europe
+Sweden,3300,2018,Electronics,Europe
+South Korea,4300,2022,Food,Asia
+Australia,2600,2015,Electronics,Oceania
+United States,5000,2016,Electronics,North America
+United Kingdom,3200,2015,Clothing,Europe
+China,7000,2019,Electronics,Asia
+United States,5000,2022,Electronics,North America
+India,6500,2018,Food,Asia
+Germany,4100,2017,Automotive,Europe
+Brazil,3400,2022,Electronics,South America
+Turkey,2400,2017,Automotive,Europe
+France,2900,2015,Electronics,Europe
+United States,5000,2015,Electronics,North America
+United States,5000,2019,Electronics,North America
+Italy,2300,2020,Food,Europe
+Spain,2100,2020,Clothing,Europe
+Canada,2500,2021,Food,North America
+Japan,4500,2023,Automotive,Asia
+Egypt,2300,2019,Food,Africa
+South Africa,2200,2016,Clothing,Africa
+Italy,2300,2019,Food,Europe
+China,7000,2023,Electronics,Asia
+India,6500,2016,Food,Asia
+United Kingdom,3200,2016,Clothing,Europe
+United Kingdom,3200,2022,Clothing,Europe
+Australia,2600,2018,Electronics,Oceania
+China,7000,2021,Electronics,Asia
+Germany,4100,2022,Automotive,Europe
+Canada,2500,2017,Food,North America
+Brazil,3400,2015,Electronics,South America
+South Korea,4300,2018,Food,Asia
+Turkey,2400,2020,Automotive,Europe
+United States,5000,2019,Electronics,North America
+South Korea,4300,2019,Food,Asia
+Germany,4100,2021,Automotive,Europe
+Russia,3200,2019,Clothing,Europe
+India,6500,2019,Food,Asia
+Brazil,3400,2018,Electronics,South America
+Italy,2300,2019,Food,Europe
+Canada,2500,2019,Food,North America
+Italy,2300,2023,Food,Europe
+South Africa,2200,2019,Clothing,Africa
+Germany,4100,2018,Automotive,Europe
+Russia,3200,2022,Clothing,Europe
+Italy,2300,2020,Food,Europe
+Japan,4500,2020,Automotive,Asia
+South Korea,4300,2015,Food,Asia
+South Africa,2200,2016,Clothing,Africa
+Germany,4100,2020,Automotive,Europe
+South Africa,2200,2018,Clothing,Africa
+Mexico,3100,2015,Automotive,North America
+Nigeria,2100,2020,Electronics,Africa
+Egypt,2300,2015,Food,Africa
+Spain,2100,2016,Clothing,Europe
+China,7000,2017,Electronics,Asia
+Germany,4100,2019,Automotive,Europe
+United States,5000,2017,Electronics,North America
+Spain,2100,2015,Clothing,Europe
+United States,5000,2018,Electronics,North America
+Egypt,2300,2017,Food,Africa
+Turkey,2400,2015,Automotive,Europe
+Italy,2300,2022,Food,Europe
+France,2900,2020,Electronics,Europe
+Nigeria,2100,2015,Electronics,Africa
+Germany,4100,2017,Automotive,Europe
+France,2900,2022,Electronics,Europe
+India,6500,2017,Food,Asia
+Mexico,3100,2017,Automotive,North America
+Nigeria,2100,2018,Electronics,Africa
+Australia,2600,2018,Electronics,Oceania
+China,7000,2017,Electronics,Asia
+United States,5000,2018,Electronics,North America
+India,6500,2019,Food,Asia
+Turkey,2400,2016,Automotive,Europe
+Brazil,3400,2017,Electronics,South America
+France,2900,2016,Electronics,Europe
+France,2900,2019,Electronics,Europe
+Germany,4100,2021,Automotive,Europe
+Germany,4100,2023,Automotive,Europe
+Turkey,2400,2017,Automotive,Europe
+South Korea,4300,2018,Food,Asia
+Germany,4100,2015,Automotive,Europe
+Egypt,2300,2015,Food,Africa
+Turkey,2400,2021,Automotive,Europe
+South Korea,4300,2015,Food,Asia
+China,7000,2021,Electronics,Asia
+United Kingdom,3200,2018,Clothing,Europe
+Italy,2300,2018,Food,Europe
+India,6500,2023,Food,Asia
+Brazil,3400,2023,Electronics,South America
+Japan,4500,2023,Automotive,Asia
+Brazil,3400,2017,Electronics,South America
+France,2900,2018,Electronics,Europe
+Sweden,3300,2017,Electronics,Europe
+Nigeria,2100,2015,Electronics,Africa
+United States,5000,2023,Electronics,North America
+United States,5000,2023,Electronics,North America
+Canada,2500,2018,Food,North America
+Sweden,3300,2023,Electronics,Europe
+South Korea,4300,2017,Food,Asia
+India,6500,2023,Food,Asia
+Sweden,3300,2019,Electronics,Europe
+Japan,4500,2018,Automotive,Asia
+Mexico,3100,2015,Automotive,North America
+France,2900,2019,Electronics,Europe
+Germany,4100,2018,Automotive,Europe
+France,2900,2021,Electronics,Europe
+Brazil,3400,2023,Electronics,South America
+Mexico,3100,2015,Automotive,North America
+Nigeria,2100,2023,Electronics,Africa
+Japan,4500,2020,Automotive,Asia
+Japan,4500,2015,Automotive,Asia
+Sweden,3300,2021,Electronics,Europe
+Japan,4500,2020,Automotive,Asia
+France,2900,2018,Electronics,Europe
+Germany,4100,2016,Automotive,Europe
+Russia,3200,2023,Clothing,Europe
+South Korea,4300,2015,Food,Asia
+United States,5000,2019,Electronics,North America
+Italy,2300,2021,Food,Europe
+Germany,4100,2020,Automotive,Europe
+Mexico,3100,2022,Automotive,North America
+Brazil,3400,2023,Electronics,South America
+Mexico,3100,2023,Automotive,North America
+Mexico,3100,2017,Automotive,North America
+Brazil,3400,2023,Electronics,South America
+Nigeria,2100,2021,Electronics,Africa
+South Korea,4300,2021,Food,Asia
+Nigeria,2100,2016,Electronics,Africa
+Sweden,3300,2021,Electronics,Europe
+United Kingdom,3200,2023,Clothing,Europe
+Japan,4500,2023,Automotive,Asia
+United States,5000,2018,Electronics,North America
+Italy,2300,2017,Food,Europe
+Canada,2500,2018,Food,North America
+Mexico,3100,2021,Automotive,North America
+Australia,2600,2018,Electronics,Oceania
+South Africa,2200,2021,Clothing,Africa
+China,7000,2020,Electronics,Asia
+Turkey,2400,2022,Automotive,Europe
+Japan,4500,2015,Automotive,Asia
+South Africa,2200,2023,Clothing,Africa
+Brazil,3400,2019,Electronics,South America
+Canada,2500,2021,Food,North America
+South Africa,2200,2020,Clothing,Africa
+United Kingdom,3200,2023,Clothing,Europe
+Russia,3200,2017,Clothing,Europe
+Germany,4100,2018,Automotive,Europe
+Turkey,2400,2022,Automotive,Europe
+South Africa,2200,2020,Clothing,Africa
+Germany,4100,2018,Automotive,Europe
+India,6500,2019,Food,Asia
+Russia,3200,2020,Clothing,Europe
+Canada,2500,2018,Food,North America
+Germany,4100,2018,Automotive,Europe
+Spain,2100,2022,Clothing,Europe
+Brazil,3400,2022,Electronics,South America
+United States,5000,2018,Electronics,North America
+Brazil,3400,2017,Electronics,South America
+Japan,4500,2018,Automotive,Asia
+India,6500,2022,Food,Asia
+Brazil,3400,2022,Electronics,South America
+Spain,2100,2020,Clothing,Europe
+South Africa,2200,2016,Clothing,Africa
+Japan,4500,2017,Automotive,Asia
+France,2900,2017,Electronics,Europe
+Sweden,3300,2023,Electronics,Europe
+Sweden,3300,2016,Electronics,Europe
+South Korea,4300,2020,Food,Asia
+Germany,4100,2023,Automotive,Europe
+Germany,4100,2019,Automotive,Europe
+Australia,2600,2015,Electronics,Oceania
+China,7000,2017,Electronics,Asia
+China,7000,2020,Electronics,Asia
+China,7000,2020,Electronics,Asia
+Germany,4100,2015,Automotive,Europe
+South Korea,4300,2023,Food,Asia
+Turkey,2400,2016,Automotive,Europe
+Russia,3200,2016,Clothing,Europe
+Germany,4100,2015,Automotive,Europe
+China,7000,2018,Electronics,Asia
+India,6500,2023,Food,Asia
+Mexico,3100,2023,Automotive,North America
+Australia,2600,2019,Electronics,Oceania
+Australia,2600,2019,Electronics,Oceania
+United Kingdom,3200,2015,Clothing,Europe
+Russia,3200,2018,Clothing,Europe
+France,2900,2022,Electronics,Europe
+France,2900,2018,Electronics,Europe
+United Kingdom,3200,2017,Clothing,Europe
+Spain,2100,2016,Clothing,Europe
+Japan,4500,2016,Automotive,Asia
+Italy,2300,2017,Food,Europe
+United States,5000,2016,Electronics,North America
+Brazil,3400,2019,Electronics,South America
+France,2900,2017,Electronics,Europe
+Spain,2100,2020,Clothing,Europe
+Nigeria,2100,2020,Electronics,Africa
+Japan,4500,2020,Automotive,Asia
+United Kingdom,3200,2017,Clothing,Europe
+Egypt,2300,2020,Food,Africa
+Nigeria,2100,2022,Electronics,Africa
+Germany,4100,2022,Automotive,Europe
+Japan,4500,2021,Automotive,Asia
+Italy,2300,2016,Food,Europe
+Nigeria,2100,2021,Electronics,Africa
+Germany,4100,2022,Automotive,Europe
+Australia,2600,2017,Electronics,Oceania
+Germany,4100,2018,Automotive,Europe
+Turkey,2400,2016,Automotive,Europe
+Egypt,2300,2020,Food,Africa
+United Kingdom,3200,2017,Clothing,Europe
+Turkey,2400,2015,Automotive,Europe
+Egypt,2300,2016,Food,Africa
+France,2900,2015,Electronics,Europe
+Spain,2100,2021,Clothing,Europe
+Spain,2100,2015,Clothing,Europe
+Russia,3200,2019,Clothing,Europe
+Russia,3200,2023,Clothing,Europe
+France,2900,2019,Electronics,Europe
+South Africa,2200,2018,Clothing,Africa
+Australia,2600,2018,Electronics,Oceania
+Australia,2600,2023,Electronics,Oceania
+Brazil,3400,2023,Electronics,South America
+Egypt,2300,2022,Food,Africa
+Canada,2500,2015,Food,North America
+Australia,2600,2018,Electronics,Oceania
+Turkey,2400,2023,Automotive,Europe
+Brazil,3400,2022,Electronics,South America
+Sweden,3300,2022,Electronics,Europe
+Egypt,2300,2016,Food,Africa
+China,7000,2023,Electronics,Asia
+South Korea,4300,2019,Food,Asia
+China,7000,2022,Electronics,Asia
+Turkey,2400,2015,Automotive,Europe
+United States,5000,2019,Electronics,North America
+China,7000,2015,Electronics,Asia
+Brazil,3400,2021,Electronics,South America
+Egypt,2300,2019,Food,Africa
+China,7000,2017,Electronics,Asia
+United States,5000,2019,Electronics,North America
+Nigeria,2100,2021,Electronics,Africa
+India,6500,2018,Food,Asia
+Italy,2300,2018,Food,Europe
+Germany,4100,2022,Automotive,Europe
+Sweden,3300,2023,Electronics,Europe
+Japan,4500,2020,Automotive,Asia
+South Korea,4300,2015,Food,Asia
+United States,5000,2023,Electronics,North America
+Sweden,3300,2020,Electronics,Europe
+Japan,4500,2019,Automotive,Asia
+Australia,2600,2022,Electronics,Oceania
+Mexico,3100,2019,Automotive,North America
+Egypt,2300,2016,Food,Africa
+United States,5000,2018,Electronics,North America
+Brazil,3400,2018,Electronics,South America
+Italy,2300,2017,Food,Europe
+United States,5000,2020,Electronics,North America
+India,6500,2017,Food,Asia
+South Korea,4300,2018,Food,Asia
+Turkey,2400,2020,Automotive,Europe
+Italy,2300,2022,Food,Europe
+Germany,4100,2017,Automotive,Europe
+Sweden,3300,2022,Electronics,Europe
+Australia,2600,2016,Electronics,Oceania
+Japan,4500,2021,Automotive,Asia
+Mexico,3100,2020,Automotive,North America
+Spain,2100,2015,Clothing,Europe
+United States,5000,2015,Electronics,North America
+Japan,4500,2018,Automotive,Asia
+South Africa,2200,2016,Clothing,Africa
+South Africa,2200,2021,Clothing,Africa
+Brazil,3400,2021,Electronics,South America
+Italy,2300,2022,Food,Europe
+Australia,2600,2023,Electronics,Oceania
+Mexico,3100,2023,Automotive,North America
+India,6500,2022,Food,Asia
+South Korea,4300,2015,Food,Asia
+Egypt,2300,2023,Food,Africa
+Sweden,3300,2021,Electronics,Europe
+Germany,4100,2023,Automotive,Europe
+China,7000,2023,Electronics,Asia
+Turkey,2400,2018,Automotive,Europe
+France,2900,2021,Electronics,Europe
+Sweden,3300,2016,Electronics,Europe
+Brazil,3400,2022,Electronics,South America
+Turkey,2400,2019,Automotive,Europe
+Mexico,3100,2017,Automotive,North America
+United Kingdom,3200,2015,Clothing,Europe
+Canada,2500,2023,Food,North America
+India,6500,2017,Food,Asia
+Nigeria,2100,2022,Electronics,Africa
+Nigeria,2100,2023,Electronics,Africa
+Germany,4100,2019,Automotive,Europe
+Egypt,2300,2019,Food,Africa
+India,6500,2016,Food,Asia
+China,7000,2022,Electronics,Asia
+Russia,3200,2021,Clothing,Europe
+Mexico,3100,2019,Automotive,North America
+Canada,2500,2016,Food,North America
+Canada,2500,2020,Food,North America
+Australia,2600,2022,Electronics,Oceania
+Japan,4500,2016,Automotive,Asia
+Mexico,3100,2018,Automotive,North America
+Australia,2600,2020,Electronics,Oceania
+Nigeria,2100,2022,Electronics,Africa
+South Africa,2200,2018,Clothing,Africa
+Japan,4500,2021,Automotive,Asia
+Germany,4100,2021,Automotive,Europe
+Canada,2500,2022,Food,North America
+Egypt,2300,2016,Food,Africa
+Australia,2600,2021,Electronics,Oceania
+France,2900,2015,Electronics,Europe
+Nigeria,2100,2018,Electronics,Africa
+Turkey,2400,2023,Automotive,Europe
+Mexico,3100,2019,Automotive,North America
+Italy,2300,2016,Food,Europe
+Italy,2300,2019,Food,Europe
+Russia,3200,2020,Clothing,Europe
+Egypt,2300,2015,Food,Africa
+United Kingdom,3200,2018,Clothing,Europe
+Spain,2100,2016,Clothing,Europe
+United Kingdom,3200,2019,Clothing,Europe
+Sweden,3300,2019,Electronics,Europe
+Sweden,3300,2019,Electronics,Europe
+Australia,2600,2015,Electronics,Oceania
+China,7000,2015,Electronics,Asia
+Egypt,2300,2023,Food,Africa
+China,7000,2019,Electronics,Asia
+United States,5000,2021,Electronics,North America
+Sweden,3300,2018,Electronics,Europe
+Italy,2300,2018,Food,Europe
+Egypt,2300,2017,Food,Africa
+Nigeria,2100,2016,Electronics,Africa
+Germany,4100,2017,Automotive,Europe
+India,6500,2016,Food,Asia
+United Kingdom,3200,2018,Clothing,Europe
+Italy,2300,2019,Food,Europe
+Italy,2300,2016,Food,Europe
+Nigeria,2100,2016,Electronics,Africa
+Nigeria,2100,2015,Electronics,Africa
+South Africa,2200,2022,Clothing,Africa
+India,6500,2023,Food,Asia
+Mexico,3100,2019,Automotive,North America
+Japan,4500,2018,Automotive,Asia
+Brazil,3400,2020,Electronics,South America
+Canada,2500,2021,Food,North America
+China,7000,2018,Electronics,Asia
+South Africa,2200,2017,Clothing,Africa
+Germany,4100,2023,Automotive,Europe
+Sweden,3300,2016,Electronics,Europe
+Russia,3200,2019,Clothing,Europe
+Turkey,2400,2015,Automotive,Europe
+Egypt,2300,2023,Food,Africa
+India,6500,2018,Food,Asia
+France,2900,2020,Electronics,Europe
+United Kingdom,3200,2020,Clothing,Europe
+Brazil,3400,2016,Electronics,South America
+Germany,4100,2022,Automotive,Europe
+Russia,3200,2023,Clothing,Europe
+Italy,2300,2021,Food,Europe
+United Kingdom,3200,2019,Clothing,Europe
+Egypt,2300,2022,Food,Africa
+United States,5000,2018,Electronics,North America
+Australia,2600,2020,Electronics,Oceania
+Italy,2300,2018,Food,Europe
+Germany,4100,2021,Automotive,Europe
+Spain,2100,2019,Clothing,Europe
+Canada,2500,2022,Food,North America
+Germany,4100,2018,Automotive,Europe
+France,2900,2015,Electronics,Europe
+Japan,4500,2020,Automotive,Asia
+United Kingdom,3200,2018,Clothing,Europe
+Italy,2300,2022,Food,Europe
+United States,5000,2020,Electronics,North America
+Mexico,3100,2020,Automotive,North America
+Sweden,3300,2023,Electronics,Europe
+China,7000,2015,Electronics,Asia
+Spain,2100,2023,Clothing,Europe
+United Kingdom,3200,2018,Clothing,Europe
+Australia,2600,2021,Electronics,Oceania
+Japan,4500,2018,Automotive,Asia
+Australia,2600,2017,Electronics,Oceania
+Germany,4100,2022,Automotive,Europe
+Russia,3200,2015,Clothing,Europe
+Germany,4100,2018,Automotive,Europe
+Canada,2500,2015,Food,North America
+Australia,2600,2018,Electronics,Oceania
+Sweden,3300,2021,Electronics,Europe
+United States,5000,2016,Electronics,North America
+Spain,2100,2017,Clothing,Europe
+Brazil,3400,2019,Electronics,South America
+China,7000,2016,Electronics,Asia
+Sweden,3300,2018,Electronics,Europe
+Australia,2600,2017,Electronics,Oceania
+Spain,2100,2019,Clothing,Europe
+Japan,4500,2022,Automotive,Asia
+Brazil,3400,2019,Electronics,South America
+South Korea,4300,2019,Food,Asia
+United States,5000,2016,Electronics,North America
+Japan,4500,2017,Automotive,Asia
+Sweden,3300,2022,Electronics,Europe
+Canada,2500,2017,Food,North America
+India,6500,2018,Food,Asia
+Sweden,3300,2022,Electronics,Europe
+France,2900,2021,Electronics,Europe
+United States,5000,2021,Electronics,North America
+Sweden,3300,2017,Electronics,Europe
+South Korea,4300,2018,Food,Asia
+United States,5000,2021,Electronics,North America
+Sweden,3300,2015,Electronics,Europe
+Canada,2500,2023,Food,North America
+United Kingdom,3200,2015,Clothing,Europe
+Russia,3200,2022,Clothing,Europe
+Turkey,2400,2021,Automotive,Europe
+Mexico,3100,2020,Automotive,North America
+China,7000,2021,Electronics,Asia
+Italy,2300,2020,Food,Europe
+Egypt,2300,2017,Food,Africa
+Germany,4100,2022,Automotive,Europe
+France,2900,2016,Electronics,Europe
+Mexico,3100,2017,Automotive,North America
+South Africa,2200,2017,Clothing,Africa
+Italy,2300,2020,Food,Europe
+China,7000,2021,Electronics,Asia
+Italy,2300,2019,Food,Europe
+Egypt,2300,2017,Food,Africa
+Turkey,2400,2017,Automotive,Europe
+Mexico,3100,2016,Automotive,North America
+Mexico,3100,2015,Automotive,North America
+France,2900,2015,Electronics,Europe
+Germany,4100,2017,Automotive,Europe
+China,7000,2023,Electronics,Asia
+Russia,3200,2018,Clothing,Europe
+South Africa,2200,2015,Clothing,Africa
+France,2900,2023,Electronics,Europe
+Sweden,3300,2023,Electronics,Europe
+Canada,2500,2016,Food,North America
+South Korea,4300,2015,Food,Asia
+Nigeria,2100,2020,Electronics,Africa
+South Africa,2200,2023,Clothing,Africa
+Japan,4500,2017,Automotive,Asia
+United States,5000,2018,Electronics,North America
+India,6500,2020,Food,Asia
+Brazil,3400,2018,Electronics,South America
+Mexico,3100,2023,Automotive,North America
+Australia,2600,2021,Electronics,Oceania
+Canada,2500,2019,Food,North America
+Mexico,3100,2021,Automotive,North America
+South Africa,2200,2018,Clothing,Africa
+China,7000,2021,Electronics,Asia
+Canada,2500,2017,Food,North America
+Brazil,3400,2021,Electronics,South America
+Turkey,2400,2020,Automotive,Europe
+Australia,2600,2020,Electronics,Oceania
+United Kingdom,3200,2019,Clothing,Europe
+China,7000,2021,Electronics,Asia
+France,2900,2020,Electronics,Europe
+Turkey,2400,2016,Automotive,Europe
+South Korea,4300,2018,Food,Asia
+Spain,2100,2018,Clothing,Europe
+Italy,2300,2023,Food,Europe
+Turkey,2400,2020,Automotive,Europe
+South Korea,4300,2020,Food,Asia
+Turkey,2400,2021,Automotive,Europe
+United Kingdom,3200,2015,Clothing,Europe
+Russia,3200,2022,Clothing,Europe
+United States,5000,2020,Electronics,North America
+China,7000,2016,Electronics,Asia
+Nigeria,2100,2020,Electronics,Africa
+France,2900,2021,Electronics,Europe
+Japan,4500,2021,Automotive,Asia
+Sweden,3300,2023,Electronics,Europe
+India,6500,2022,Food,Asia
+Nigeria,2100,2020,Electronics,Africa
+United Kingdom,3200,2018,Clothing,Europe
+United States,5000,2017,Electronics,North America
+Spain,2100,2018,Clothing,Europe
+France,2900,2017,Electronics,Europe
+South Africa,2200,2020,Clothing,Africa
+Germany,4100,2019,Automotive,Europe
+South Korea,4300,2016,Food,Asia
+Spain,2100,2020,Clothing,Europe
+Brazil,3400,2023,Electronics,South America
+Sweden,3300,2018,Electronics,Europe
+Canada,2500,2020,Food,North America
+Canada,2500,2023,Food,North America
+Sweden,3300,2019,Electronics,Europe
+Canada,2500,2016,Food,North America
+France,2900,2022,Electronics,Europe
+Canada,2500,2023,Food,North America
+Spain,2100,2016,Clothing,Europe
+Spain,2100,2017,Clothing,Europe
+Mexico,3100,2016,Automotive,North America
+China,7000,2016,Electronics,Asia
+Italy,2300,2022,Food,Europe
+Mexico,3100,2020,Automotive,North America
+Egypt,2300,2015,Food,Africa
+Germany,4100,2019,Automotive,Europe
+Mexico,3100,2016,Automotive,North America
+Sweden,3300,2016,Electronics,Europe
+Japan,4500,2021,Automotive,Asia
+Mexico,3100,2021,Automotive,North America
+Spain,2100,2015,Clothing,Europe
+Nigeria,2100,2017,Electronics,Africa
+South Korea,4300,2018,Food,Asia
+Spain,2100,2022,Clothing,Europe
+United Kingdom,3200,2017,Clothing,Europe
+Spain,2100,2019,Clothing,Europe
+Canada,2500,2015,Food,North America
+Russia,3200,2021,Clothing,Europe
+India,6500,2017,Food,Asia
+South Korea,4300,2019,Food,Asia
+Japan,4500,2022,Automotive,Asia
+Australia,2600,2018,Electronics,Oceania
+Mexico,3100,2015,Automotive,North America
+Spain,2100,2020,Clothing,Europe
+South Africa,2200,2019,Clothing,Africa
+India,6500,2015,Food,Asia
+Germany,4100,2017,Automotive,Europe
+India,6500,2018,Food,Asia
+Turkey,2400,2016,Automotive,Europe
+Germany,4100,2022,Automotive,Europe
+South Korea,4300,2016,Food,Asia
+Turkey,2400,2018,Automotive,Europe
+Spain,2100,2019,Clothing,Europe
+Italy,2300,2016,Food,Europe
+Egypt,2300,2022,Food,Africa
+Spain,2100,2019,Clothing,Europe
+Germany,4100,2015,Automotive,Europe
+Spain,2100,2017,Clothing,Europe
+Japan,4500,2022,Automotive,Asia
+Italy,2300,2019,Food,Europe
+Egypt,2300,2015,Food,Africa
+United Kingdom,3200,2017,Clothing,Europe
+Turkey,2400,2021,Automotive,Europe
+United Kingdom,3200,2017,Clothing,Europe
+South Korea,4300,2019,Food,Asia
+Egypt,2300,2020,Food,Africa
+Australia,2600,2019,Electronics,Oceania
+Brazil,3400,2019,Electronics,South America
+South Korea,4300,2023,Food,Asia
+Nigeria,2100,2016,Electronics,Africa
+United Kingdom,3200,2020,Clothing,Europe
+Egypt,2300,2022,Food,Africa
+Russia,3200,2015,Clothing,Europe
+South Korea,4300,2016,Food,Asia
+United States,5000,2018,Electronics,North America
+France,2900,2017,Electronics,Europe
+Sweden,3300,2023,Electronics,Europe
+South Korea,4300,2017,Food,Asia
+Turkey,2400,2019,Automotive,Europe
+Brazil,3400,2023,Electronics,South America
+China,7000,2017,Electronics,Asia
+South Korea,4300,2023,Food,Asia
+United States,5000,2022,Electronics,North America
+Russia,3200,2023,Clothing,Europe
+China,7000,2017,Electronics,Asia
+Turkey,2400,2018,Automotive,Europe
+Italy,2300,2018,Food,Europe
+Australia,2600,2021,Electronics,Oceania
+Germany,4100,2015,Automotive,Europe
+Nigeria,2100,2018,Electronics,Africa
+Russia,3200,2021,Clothing,Europe
+Spain,2100,2018,Clothing,Europe
+Mexico,3100,2021,Automotive,North America
+Nigeria,2100,2018,Electronics,Africa
+Mexico,3100,2017,Automotive,North America
+Turkey,2400,2017,Automotive,Europe
+Sweden,3300,2017,Electronics,Europe
+Egypt,2300,2021,Food,Africa
+Australia,2600,2019,Electronics,Oceania
+Egypt,2300,2021,Food,Africa
+South Korea,4300,2015,Food,Asia
+Germany,4100,2019,Automotive,Europe
+India,6500,2017,Food,Asia
+India,6500,2016,Food,Asia
+United Kingdom,3200,2021,Clothing,Europe
+Nigeria,2100,2016,Electronics,Africa
+India,6500,2022,Food,Asia
+Turkey,2400,2020,Automotive,Europe
+Nigeria,2100,2021,Electronics,Africa
+France,2900,2016,Electronics,Europe
+Canada,2500,2021,Food,North America
+China,7000,2021,Electronics,Asia
+France,2900,2021,Electronics,Europe
+Russia,3200,2021,Clothing,Europe
+China,7000,2017,Electronics,Asia
+Italy,2300,2020,Food,Europe
+Italy,2300,2017,Food,Europe
+China,7000,2017,Electronics,Asia
+India,6500,2018,Food,Asia
+Russia,3200,2017,Clothing,Europe
+Japan,4500,2018,Automotive,Asia
+United Kingdom,3200,2023,Clothing,Europe
+Spain,2100,2020,Clothing,Europe
+Australia,2600,2019,Electronics,Oceania
+United States,5000,2020,Electronics,North America
+United Kingdom,3200,2016,Clothing,Europe
+Germany,4100,2020,Automotive,Europe
+Turkey,2400,2023,Automotive,Europe
+Turkey,2400,2017,Automotive,Europe
+Japan,4500,2020,Automotive,Asia
+Turkey,2400,2021,Automotive,Europe
+Australia,2600,2019,Electronics,Oceania
+India,6500,2015,Food,Asia
+Turkey,2400,2023,Automotive,Europe
+Germany,4100,2020,Automotive,Europe
+Russia,3200,2020,Clothing,Europe
+Sweden,3300,2020,Electronics,Europe
+Mexico,3100,2016,Automotive,North America
+United States,5000,2015,Electronics,North America
+India,6500,2015,Food,Asia
+Germany,4100,2015,Automotive,Europe
+Canada,2500,2015,Food,North America
+Germany,4100,2015,Automotive,Europe
+Canada,2500,2022,Food,North America
+Sweden,3300,2021,Electronics,Europe
+France,2900,2018,Electronics,Europe
+Turkey,2400,2020,Automotive,Europe
+Turkey,2400,2019,Automotive,Europe
+Canada,2500,2018,Food,North America
+Brazil,3400,2019,Electronics,South America
+United States,5000,2020,Electronics,North America
+Italy,2300,2016,Food,Europe
+Mexico,3100,2018,Automotive,North America
+China,7000,2021,Electronics,Asia
+France,2900,2022,Electronics,Europe
+United Kingdom,3200,2019,Clothing,Europe
+Russia,3200,2015,Clothing,Europe
+South Africa,2200,2015,Clothing,Africa
+United Kingdom,3200,2022,Clothing,Europe
+Russia,3200,2018,Clothing,Europe
+Spain,2100,2018,Clothing,Europe
+Canada,2500,2015,Food,North America
+United Kingdom,3200,2015,Clothing,Europe
+India,6500,2019,Food,Asia
+Canada,2500,2019,Food,North America
+Canada,2500,2020,Food,North America
+Canada,2500,2023,Food,North America
+Canada,2500,2023,Food,North America
+Brazil,3400,2015,Electronics,South America
+Turkey,2400,2016,Automotive,Europe
+Turkey,2400,2020,Automotive,Europe
+Turkey,2400,2021,Automotive,Europe
+Sweden,3300,2016,Electronics,Europe
+France,2900,2019,Electronics,Europe
+Russia,3200,2015,Clothing,Europe
+China,7000,2019,Electronics,Asia
+Sweden,3300,2022,Electronics,Europe
+Japan,4500,2022,Automotive,Asia
+Spain,2100,2022,Clothing,Europe
+Brazil,3400,2021,Electronics,South America
+United Kingdom,3200,2017,Clothing,Europe
+Brazil,3400,2021,Electronics,South America
+South Africa,2200,2015,Clothing,Africa
+Russia,3200,2017,Clothing,Europe
+South Africa,2200,2022,Clothing,Africa
+Russia,3200,2022,Clothing,Europe
+Turkey,2400,2017,Automotive,Europe
+Mexico,3100,2021,Automotive,North America
+Russia,3200,2016,Clothing,Europe
+China,7000,2018,Electronics,Asia
+Canada,2500,2022,Food,North America
+Italy,2300,2015,Food,Europe
+Nigeria,2100,2020,Electronics,Africa
+Japan,4500,2019,Automotive,Asia
+Spain,2100,2020,Clothing,Europe
+South Africa,2200,2020,Clothing,Africa
+Spain,2100,2018,Clothing,Europe
+Spain,2100,2023,Clothing,Europe
+Egypt,2300,2015,Food,Africa
+United States,5000,2016,Electronics,North America
+Nigeria,2100,2020,Electronics,Africa
+Nigeria,2100,2019,Electronics,Africa
+United States,5000,2016,Electronics,North America
+India,6500,2020,Food,Asia
+Russia,3200,2015,Clothing,Europe
+United States,5000,2021,Electronics,North America
+Australia,2600,2023,Electronics,Oceania
+Sweden,3300,2023,Electronics,Europe
+Spain,2100,2021,Clothing,Europe
+Italy,2300,2018,Food,Europe
+Sweden,3300,2019,Electronics,Europe
+Italy,2300,2019,Food,Europe
+Spain,2100,2018,Clothing,Europe
+Russia,3200,2021,Clothing,Europe
+Egypt,2300,2020,Food,Africa
+Sweden,3300,2023,Electronics,Europe
+Russia,3200,2016,Clothing,Europe
+Canada,2500,2018,Food,North America
+Australia,2600,2023,Electronics,Oceania
+Nigeria,2100,2016,Electronics,Africa
+United States,5000,2020,Electronics,North America
+South Africa,2200,2023,Clothing,Africa
+India,6500,2015,Food,Asia
+Germany,4100,2018,Automotive,Europe
+Germany,4100,2022,Automotive,Europe
+Nigeria,2100,2016,Electronics,Africa
+Nigeria,2100,2022,Electronics,Africa
+China,7000,2023,Electronics,Asia
+Spain,2100,2015,Clothing,Europe
+Nigeria,2100,2022,Electronics,Africa
+Egypt,2300,2020,Food,Africa
+China,7000,2021,Electronics,Asia
+Russia,3200,2023,Clothing,Europe
+South Africa,2200,2022,Clothing,Africa
+Canada,2500,2020,Food,North America
+South Korea,4300,2016,Food,Asia
+United Kingdom,3200,2015,Clothing,Europe
+Italy,2300,2015,Food,Europe
+Nigeria,2100,2020,Electronics,Africa
+Italy,2300,2021,Food,Europe
+Australia,2600,2018,Electronics,Oceania
+South Korea,4300,2021,Food,Asia
+Australia,2600,2016,Electronics,Oceania
+France,2900,2022,Electronics,Europe
+Nigeria,2100,2022,Electronics,Africa
+South Africa,2200,2015,Clothing,Africa
+South Africa,2200,2022,Clothing,Africa
+Turkey,2400,2021,Automotive,Europe
+Brazil,3400,2015,Electronics,South America
+South Korea,4300,2019,Food,Asia
+Australia,2600,2017,Electronics,Oceania
+France,2900,2022,Electronics,Europe
+Egypt,2300,2020,Food,Africa
+Germany,4100,2017,Automotive,Europe
+Australia,2600,2023,Electronics,Oceania
+Mexico,3100,2020,Automotive,North America
+Nigeria,2100,2021,Electronics,Africa
+Spain,2100,2021,Clothing,Europe
+Italy,2300,2019,Food,Europe
+Mexico,3100,2016,Automotive,North America
+Spain,2100,2020,Clothing,Europe
+Sweden,3300,2019,Electronics,Europe
+Brazil,3400,2020,Electronics,South America
+Japan,4500,2020,Automotive,Asia
+United States,5000,2021,Electronics,North America
+Egypt,2300,2018,Food,Africa
+Spain,2100,2023,Clothing,Europe
+Italy,2300,2016,Food,Europe
+United Kingdom,3200,2019,Clothing,Europe
+Spain,2100,2017,Clothing,Europe
+Nigeria,2100,2022,Electronics,Africa
+Canada,2500,2019,Food,North America
+Japan,4500,2016,Automotive,Asia
+Sweden,3300,2023,Electronics,Europe
+Italy,2300,2017,Food,Europe
+India,6500,2018,Food,Asia
+India,6500,2018,Food,Asia
+Germany,4100,2019,Automotive,Europe
+Spain,2100,2016,Clothing,Europe
+China,7000,2021,Electronics,Asia
+Japan,4500,2017,Automotive,Asia
+Egypt,2300,2020,Food,Africa
+Sweden,3300,2019,Electronics,Europe
+Japan,4500,2016,Automotive,Asia
+India,6500,2020,Food,Asia
+United Kingdom,3200,2019,Clothing,Europe
+South Korea,4300,2020,Food,Asia
+Spain,2100,2022,Clothing,Europe
+Nigeria,2100,2019,Electronics,Africa
+Germany,4100,2019,Automotive,Europe
+Australia,2600,2017,Electronics,Oceania
+United Kingdom,3200,2017,Clothing,Europe
+Japan,4500,2016,Automotive,Asia
+United States,5000,2018,Electronics,North America
+Spain,2100,2015,Clothing,Europe
+South Africa,2200,2016,Clothing,Africa
+Canada,2500,2016,Food,North America
+South Africa,2200,2021,Clothing,Africa
+Spain,2100,2023,Clothing,Europe
+China,7000,2021,Electronics,Asia
+Egypt,2300,2018,Food,Africa
+Nigeria,2100,2015,Electronics,Africa
+Nigeria,2100,2022,Electronics,Africa
+Brazil,3400,2018,Electronics,South America
+South Korea,4300,2017,Food,Asia
+Spain,2100,2020,Clothing,Europe
+Sweden,3300,2022,Electronics,Europe
+South Africa,2200,2018,Clothing,Africa
+Mexico,3100,2019,Automotive,North America
+Brazil,3400,2022,Electronics,South America
+Brazil,3400,2021,Electronics,South America
+United Kingdom,3200,2022,Clothing,Europe
+Australia,2600,2018,Electronics,Oceania
+Nigeria,2100,2021,Electronics,Africa
+Australia,2600,2018,Electronics,Oceania
+South Africa,2200,2022,Clothing,Africa
+United States,5000,2016,Electronics,North America
+Italy,2300,2018,Food,Europe
+Turkey,2400,2022,Automotive,Europe
+France,2900,2023,Electronics,Europe
+Japan,4500,2023,Automotive,Asia
+India,6500,2019,Food,Asia
+Spain,2100,2020,Clothing,Europe
+Canada,2500,2018,Food,North America
+Canada,2500,2021,Food,North America
+Italy,2300,2021,Food,Europe
+United Kingdom,3200,2017,Clothing,Europe
+Italy,2300,2018,Food,Europe
+Spain,2100,2020,Clothing,Europe
+Spain,2100,2022,Clothing,Europe
+Canada,2500,2015,Food,North America
+Germany,4100,2022,Automotive,Europe
+Egypt,2300,2016,Food,Africa
+South Africa,2200,2017,Clothing,Africa
+Turkey,2400,2020,Automotive,Europe
+China,7000,2015,Electronics,Asia
+Italy,2300,2020,Food,Europe
+Egypt,2300,2023,Food,Africa
+France,2900,2023,Electronics,Europe
+Sweden,3300,2017,Electronics,Europe
+Germany,4100,2020,Automotive,Europe
+Mexico,3100,2018,Automotive,North America
+Brazil,3400,2016,Electronics,South America
+Mexico,3100,2022,Automotive,North America
+Italy,2300,2018,Food,Europe
+Egypt,2300,2023,Food,Africa
+Canada,2500,2020,Food,North America
+South Africa,2200,2020,Clothing,Africa
+France,2900,2016,Electronics,Europe
+India,6500,2022,Food,Asia
+Egypt,2300,2017,Food,Africa
+Spain,2100,2016,Clothing,Europe
+Italy,2300,2015,Food,Europe
+Italy,2300,2016,Food,Europe
+South Africa,2200,2015,Clothing,Africa
+France,2900,2016,Electronics,Europe
+Brazil,3400,2016,Electronics,South America
+France,2900,2021,Electronics,Europe
+United Kingdom,3200,2023,Clothing,Europe
+South Korea,4300,2023,Food,Asia
+Sweden,3300,2018,Electronics,Europe
+Nigeria,2100,2017,Electronics,Africa
+Brazil,3400,2015,Electronics,South America
+United Kingdom,3200,2022,Clothing,Europe
+United Kingdom,3200,2019,Clothing,Europe
+Mexico,3100,2021,Automotive,North America
+Canada,2500,2015,Food,North America
+Mexico,3100,2020,Automotive,North America
+Canada,2500,2018,Food,North America
+Sweden,3300,2018,Electronics,Europe
+Nigeria,2100,2019,Electronics,Africa
+Germany,4100,2015,Automotive,Europe
+South Korea,4300,2021,Food,Asia
+France,2900,2020,Electronics,Europe
+Spain,2100,2018,Clothing,Europe
+Australia,2600,2015,Electronics,Oceania
+South Africa,2200,2015,Clothing,Africa
+South Korea,4300,2016,Food,Asia
+Germany,4100,2017,Automotive,Europe
+Australia,2600,2015,Electronics,Oceania
+Australia,2600,2017,Electronics,Oceania
+Sweden,3300,2017,Electronics,Europe
+Canada,2500,2021,Food,North America
+Sweden,3300,2022,Electronics,Europe
+Egypt,2300,2023,Food,Africa
+Brazil,3400,2023,Electronics,South America
+Germany,4100,2017,Automotive,Europe
+Mexico,3100,2019,Automotive,North America
+Italy,2300,2022,Food,Europe
+Sweden,3300,2022,Electronics,Europe
+Canada,2500,2020,Food,North America
+Brazil,3400,2022,Electronics,South America
+South Korea,4300,2017,Food,Asia
+Turkey,2400,2019,Automotive,Europe
+Russia,3200,2016,Clothing,Europe
+Germany,4100,2016,Automotive,Europe
+Spain,2100,2016,Clothing,Europe
+Australia,2600,2022,Electronics,Oceania
+South Korea,4300,2015,Food,Asia
+Brazil,3400,2015,Electronics,South America
+China,7000,2017,Electronics,Asia
+Brazil,3400,2016,Electronics,South America
+Nigeria,2100,2019,Electronics,Africa
+Australia,2600,2021,Electronics,Oceania
+United Kingdom,3200,2015,Clothing,Europe
+Turkey,2400,2021,Automotive,Europe
+United States,5000,2021,Electronics,North America
+China,7000,2017,Electronics,Asia
+Japan,4500,2023,Automotive,Asia
+Turkey,2400,2021,Automotive,Europe
+Brazil,3400,2021,Electronics,South America
+Sweden,3300,2020,Electronics,Europe
+Egypt,2300,2017,Food,Africa
+South Africa,2200,2020,Clothing,Africa
+Germany,4100,2015,Automotive,Europe
+India,6500,2018,Food,Asia
+South Korea,4300,2022,Food,Asia
+South Africa,2200,2015,Clothing,Africa
+United Kingdom,3200,2019,Clothing,Europe
+Russia,3200,2016,Clothing,Europe
+Brazil,3400,2018,Electronics,South America
+Australia,2600,2020,Electronics,Oceania
+Brazil,3400,2022,Electronics,South America
+Mexico,3100,2021,Automotive,North America
+France,2900,2017,Electronics,Europe
+United Kingdom,3200,2022,Clothing,Europe
+Nigeria,2100,2018,Electronics,Africa
+United Kingdom,3200,2019,Clothing,Europe
+Nigeria,2100,2022,Electronics,Africa
+United Kingdom,3200,2015,Clothing,Europe
+United Kingdom,3200,2015,Clothing,Europe
+Russia,3200,2016,Clothing,Europe
+Canada,2500,2023,Food,North America
+Japan,4500,2018,Automotive,Asia
+Japan,4500,2020,Automotive,Asia
+Mexico,3100,2015,Automotive,North America
+India,6500,2016,Food,Asia
+Sweden,3300,2016,Electronics,Europe
+Turkey,2400,2018,Automotive,Europe
+United States,5000,2022,Electronics,North America
+Italy,2300,2018,Food,Europe
+United States,5000,2022,Electronics,North America
+Spain,2100,2015,Clothing,Europe
+South Africa,2200,2017,Clothing,Africa
+Sweden,3300,2019,Electronics,Europe
+South Africa,2200,2019,Clothing,Africa
+Sweden,3300,2021,Electronics,Europe
+Russia,3200,2015,Clothing,Europe
+Mexico,3100,2016,Automotive,North America
+India,6500,2022,Food,Asia
+China,7000,2021,Electronics,Asia
+Nigeria,2100,2020,Electronics,Africa
+Canada,2500,2020,Food,North America
+Germany,4100,2022,Automotive,Europe
+Nigeria,2100,2018,Electronics,Africa
+United States,5000,2021,Electronics,North America
+United Kingdom,3200,2023,Clothing,Europe
+Turkey,2400,2023,Automotive,Europe
+United States,5000,2017,Electronics,North America
+Brazil,3400,2016,Electronics,South America
+Turkey,2400,2015,Automotive,Europe
+Turkey,2400,2023,Automotive,Europe
+South Africa,2200,2022,Clothing,Africa
+South Africa,2200,2022,Clothing,Africa
+Australia,2600,2015,Electronics,Oceania
+Russia,3200,2019,Clothing,Europe
+Mexico,3100,2023,Automotive,North America
+Turkey,2400,2015,Automotive,Europe
+South Korea,4300,2019,Food,Asia
+South Korea,4300,2020,Food,Asia
+Australia,2600,2022,Electronics,Oceania
+Russia,3200,2017,Clothing,Europe
+Brazil,3400,2019,Electronics,South America
+Russia,3200,2022,Clothing,Europe
