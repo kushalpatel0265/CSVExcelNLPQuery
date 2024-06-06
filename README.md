@@ -1,4 +1,4 @@
-# DataQueryAI
+# CSVExcelNLPQuery
 
 ## Overview
 DataQueryAI is a powerful tool designed to facilitate seamless interaction with structured data files such as Excel and CSV using natural language queries. Built on the robust PandasAI platform, this project leverages AI to interpret and answer questions directly based on the contents of uploaded data files.
