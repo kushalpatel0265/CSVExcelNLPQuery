@@ -29,7 +29,7 @@ Follow these instructions to set up and run CSVExcelNLPQuery on your local machi
 1. Run the main script:
    ```bash
    python main.py
-2. Upload your Excel or CSV file.
+2. Upload your Excel or CSV file and integrate in the code.
 
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
