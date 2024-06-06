@@ -13,6 +13,8 @@ Follow these instructions to set up and run CSVExcelNLPQuery on your local machi
 
 ## Prerequisites
 - Python 3.8 or higher
+- CSV or Excel file
+- PandasAI library
 - PandasAI API key (obtain yours at [PandasAI API Keys](https://www.pandabi.ai/admin/api-keys))
 
 ## Installation
@@ -37,4 +39,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 - Gmail: kushalpatel0265@gmail.com
-- Project Link: https://github.com/kushalpatel0265/Database-Talk
+- Project Link: https://github.com/kushalpatel0265/CSVExcelNLPQuery
