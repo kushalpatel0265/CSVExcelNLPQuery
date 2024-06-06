@@ -9,7 +9,7 @@ DataQueryAI is a powerful tool designed to facilitate seamless interaction with 
 - **Secure API Integration**: Utilizes secure API keys from PandasAI for reliable data processing.
 
 ## Getting Started
-Follow these instructions to set up and run CSVExcelNLPQuery on your local machine.
+Follow these instructions to set up and run a CSVExcelNLPQuery project on your local machine.
 
 ## Prerequisites
 - Python 3.8 or higher
