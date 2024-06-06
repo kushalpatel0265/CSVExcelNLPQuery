@@ -33,7 +33,7 @@ Follow these instructions to set up and run DataQueryAI on your local machine.
 Contributions to CSVExcelNLPQuery are welcome! Please feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kushalpatel0265/CSVExcelNLPQuery/blob/main/LICENSE) file for details.
 
 ### Acknowledgements
 This README now includes a detailed installation section with explicit references to the `requirements.txt` file and its contents, ensuring users know exactly what libraries they need to run the project.
