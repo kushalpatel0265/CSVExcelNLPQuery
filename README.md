@@ -30,6 +30,7 @@ Follow these instructions to set up and run CSVExcelNLPQuery on your local machi
    ```bash
    python main.py
 2. Upload your Excel or CSV file and integrate in the code.
+3. Integrate API key of Pandas AI.
 
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
