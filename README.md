@@ -29,6 +29,9 @@ Follow these instructions to set up and run DataQueryAI on your local machine.
    python main.py
 2. Upload your Excel or CSV file.
 
+## Contributing
+Contributions to this project are welcome! Please fork the repository and submit a pull request with your features or corrections.
+
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
