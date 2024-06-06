@@ -18,5 +18,22 @@ Follow these instructions to set up and run DataQueryAI on your local machine.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kushalpatel0265/CSVExcelNLPQuery
-.git
+   git clone https://github.com/kushalpatel0265/CSVExcelNLPQuery.git
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
+### Usage
+1. Run the main script:
+   ```bash
+   python main.py
+2. Upload your Excel or CSV file.
+
+### Contributing
+Contributions to CSVExcelNLPQuery are welcome! Please feel free to fork the repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgements
+This README now includes a detailed installation section with explicit references to the `requirements.txt` file and its contents, ensuring users know exactly what libraries they need to run the project.
